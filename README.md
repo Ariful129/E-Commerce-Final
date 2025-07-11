@@ -1,4 +1,4 @@
-# E-Commerce Final Project
+# E-Commerce Project
 
 A full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js) providing a complete online shopping experience with modern features and secure payment integration.
 
@@ -82,7 +82,7 @@ A full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js,
 
 Before running this project, make sure you have the following installed:
 
-- Node.js (v14.0.0 or higher)
+- Node.js 
 - npm or yarn package manager
 - MongoDB (local installation or MongoDB Atlas account)
 - Git
@@ -253,34 +253,11 @@ E-Commerce-Final/
 └── README.md                # This file
 ```
 
-## 📸 Screenshots
 
-_Add screenshots of your application here to showcase the UI and features_
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-### Contributing Guidelines
-- Follow the existing code style
-- Write descriptive commit messages
-- Add tests for new features
-- Update documentation as needed
-- Ensure your code passes all tests
 
-## 🐛 Known Issues
-
-- List any known issues or limitations
-- Mention any browser compatibility issues
-- Note any features that are in development
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
@@ -289,38 +266,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: [arif.cuet129@gmail.com](mailto:arif.cuet129@gmail.com)
 - LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
 
-## 🙏 Acknowledgments
 
-- Thanks to all contributors who helped make this project possible
-- Special thanks to the MERN stack community for excellent documentation
-- Vercel for reliable hosting services
-- MongoDB Atlas for database hosting
-- Stripe for payment processing integration
 
-## 📞 Support
 
-If you encounter any issues or have questions about the project:
 
-- 📧 Email: [arif.cuet129@gmail.com](mailto:arif.cuet129@gmail.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/Ariful129/E-Commerce-Final/issues)
-- 📖 Documentation: Check the code comments and this README
-- 💬 Discussions: [GitHub Discussions](https://github.com/Ariful129/E-Commerce-Final/discussions)
-
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with core e-commerce features
-- **v1.1.0** - Added payment integration and order tracking
-- **v1.2.0** - Enhanced admin dashboard and analytics
-
-## 🚀 Deployment
-
-The project is deployed on Vercel with the following configuration:
-
-- **Frontend**: Automatically deployed from the `frontend` directory
-- **Backend**: Deployed as serverless functions
-- **Database**: MongoDB Atlas for production database
-
-For local deployment, refer to the installation instructions above.
 
 ---
 
